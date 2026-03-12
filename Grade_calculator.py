@@ -20,5 +20,5 @@ def calculate_grades(marks):
     print("Final Grade:", grade)
 
 if __name__ == "__main__":
-    marks = [50,40,60,80,95]
+    marks = [85, 90, 78, 92, 88]  # Example data
     calculate_grades(marks)
